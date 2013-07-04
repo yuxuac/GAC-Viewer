@@ -1,4 +1,4 @@
 GAC-Viewer
 ==========
 
-Display all dlls registered in GAC (Globle Assembly Cache).
+Display all dlls registered in GAC (Global Assembly Cache).
